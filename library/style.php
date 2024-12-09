@@ -76,7 +76,35 @@ body .testimonial .row .carousel .carousel-inner .carousel-item .quote-wrapper h
 .div-margin-homre-area4{margin-top: 50px;}
 
 
+/* Explore */
+.explore-are1-img1{width: 100%;}
+.explore-area2-h2{margin-top: 30px;}
+.explore-area2-img{display: block;margin: 0 auto; margin-top: 10%; width: 80%; z-index: -10;}
+.explore-h2-1-area2-img-tag{text-align: center;}
+.explore-p-1-area2-img-tag{text-align: center;}
+.explore-div-area2-imgtext-position1{width: 70%; margin: auto; margin-top: -10%; color: #fff; }
+.explore-div-area2-imgtext-position2{width: 90%; margin: auto;}
+.explore-footer-margin{margin-top: 10%;}
 
+
+/* About Us */
+.about-area1-img1{width: 100%;}
+
+
+/* contact Us */
+.contact-area1-img1{display: block;width: 100%;}
+.contact-area1-img-container{position: relative;display: inline-block;text-align: center;}
+.contact-area1-h2-overlay-text {position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); color: #fff;}
+.contact-area1-p-overlay-text{position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); color: #fff; margin-top: 40px;}
+.contact-form {max-width: 800px;margin: 0 auto; margin-top: 30px;}
+.form-row {display: flex;gap: 20px;}
+.form-group {flex: 1;display: flex;flex-direction: column;}
+label {font-size: 14px;margin-bottom: 8px;color: #333;}
+input, textarea {padding: 10px;font-size: 14px;border: 1px solid #ccc;border-radius: 4px;outline: none;width: 100%;}
+textarea {resize: none;height: 150px;}
+input::placeholder, textarea::placeholder {color: #aaa;}
+.submit-btn {padding: 10px 20px;font-size: 16px;color: white;background-color: #7C6A46;border: none;border-radius: 4px;cursor: pointer;text-align: center;transition: background-color 0.3s ease; margin-top: 10px;}
+.submit-btn:hover {background-color: #7C5A46}
 
 
 
