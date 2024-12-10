@@ -52,10 +52,9 @@
     <!-- Area 2 -->
     <!-- Area 3 -->
         <div class="container" >
-        <h2 class="h1-1-area2-home">Clients</h2>
-            <div class="container">
+        <h2 class="about-area3-h1-client">Clients</h2>
+            <div class="container about-area3-image-client">
                 <div class="row">
-
                     <div class="col-auto me-auto">
                         <img src="../images/image 5.png" alt="">
                     </div>
@@ -72,7 +71,12 @@
             </div>
         </div>
     <!-- Area 3 -->
-    <!-- footer -->
-    <!-- footer -->
+    <!-- area 4 -->
+        <!-- footer -->
+         <div class="explore-footer-margin" >
+            <?php include '../library/footer.php' ?>
+         </div>
+        <!-- footer -->
+    <!-- area 4 -->
 </body>
 </html>

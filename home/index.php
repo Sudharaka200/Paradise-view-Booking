@@ -238,6 +238,9 @@
         <!-- carosal -->
      </div>
     <!-- area 4 -->
+    <!-- area 5 -->
+        <?php include '../library/footer.php' ?>
+    <!-- area 5 -->
 
     <script>
         $(document).ready(function(){
@@ -259,10 +262,6 @@
             });
         });
     </script>
-    <!-- area 5 -->
-        <?php include '../library/footer.php' ?>
-    <!-- area 5 -->
-
 
 </body>
 </html>
