@@ -13,7 +13,9 @@
 
     <!-- Area 1 -->
     <div>
-        <img src="../images/Group 23.png" class="explore-are1-img1" alt="">
+    <video autoplay muted loop playsinline>
+        <source src="../images/Gen-3 Alpha Turbo 2925180823, Cropped - Group 23w, M 5.mp4" type="video/mp4">
+    </video>
     </div>
     <!-- Area 1 -->
     <!-- area 2 -->
