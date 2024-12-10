@@ -41,28 +41,58 @@
                         <img src="../images/Rectangle 5.png" alt="" class="img-home-area1">
                     </div>
                 </div>
-                <div class="container text-center home-adre1-book">
-                    <div class="row">
-                        <div class="col-auto me-auto">
-                            <p class="home-book-margin-area1"><i class="fa fa-thumb-tack" aria-hidden="true"></i>  Location</p>
-                        </div>
-                        <div class="col-auto me-auto">
-                            <p class="home-book-margin-area1"><i class="fa fa-bed" aria-hidden="true"></i>  Room Type</p>
-                        </div>
-                        <div class="col-auto me-auto">
-                            <p class="home-book-margin-area1"><i class="fa fa-user" aria-hidden="true"></i> Person</p>
-                        </div>
-                        <div class="col-auto me-auto">
-                            <p class="home-book-margin-area1"><i class="fa fa-calendar" aria-hidden="true"></i> Check in</p>
-                        </div>
-                        <div class="col-auto me-auto">
-                            <p class="home-book-margin-area1"><i class="fa fa-calendar" aria-hidden="true"></i> Check out</p>
-                        </div>
-                        <div class="col-auto me-auto">
-                            <button class="btn-nav-book home-book-margin-area1-btn"> Book Now</button>
+                <!-- <div class="container text-center home-adre1-book">
+                 <div class="row g-2 align-items-center ">
+                    <div class="col-md  home-book-margin-area1-btn"> 
+                        <div class="input-group">
+                        <span class="input-group-text"><i class="fa fa-thumbtack"></i></span>
+                        <select class="form-select" aria-label="Location">
+                            <option selected disabled>Location</option>
+                            <option value="1">New York</option>
+                            <option value="2">London</option>
+                            <option value="3">Tokyo</option>
+                        </select>
                         </div>
                     </div>
-                </div>
+                    <div class="col-md home-book-margin-area1-btn"> 
+                        <div class="input-group">
+                        <span class="input-group-text"><i class="fa fa-bed"></i></span>
+                        <select class="form-select" aria-label="Room Type">
+                            <option selected disabled>Room Type</option>
+                            <option value="1">Single</option>
+                            <option value="2">Double</option>
+                            <option value="3">Suite</option>
+                        </select>
+                        </div>
+                    </div>
+                    <div class="col-md home-book-margin-area1-btn"> 
+                        <div class="input-group">
+                        <span class="input-group-text"><i class="fa fa-user"></i></span>
+                        <select class="form-select" aria-label="Person">
+                            <option selected disabled>Person</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3+</option>
+                        </select>
+                        </div>
+                    </div>
+                    <div class="col-md home-book-margin-area1-btn"> 
+                        <div class="input-group">
+                        <span class="input-group-text"><i class="fa fa-calendar-alt"></i></span>
+                        <input type="date" class="form-control" placeholder="Check-in">
+                        </div>
+                    </div>
+                    <div class="col-md home-book-margin-area1-btn"> 
+                        <div class="input-group">
+                        <span class="input-group-text"><i class="fa fa-calendar-alt"></i></span>
+                        <input type="date" class="form-control" placeholder="Check-out">
+                        </div>
+                    </div>
+                    <div class="col-auto me-auto home-book-margin-area1-btn">
+                        <button class="btn-nav-book "> Book Now</button>
+                    </div>
+                  </div> 
+                </div> -->
             </div>
           </div>        
         </div>
