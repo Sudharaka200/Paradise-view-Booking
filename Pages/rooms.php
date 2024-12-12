@@ -27,11 +27,22 @@
                 <div class="card h-100">
                     <img src="../images/Rectangle 26.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <h5 class="card-title room-card-font-c room-card-title">The Royal Room</h5>
+                        <p class="room-card-font-c room-card-price">Rs 190 000</p>
+                        <p class="card-text room-card-font-c room-card-p">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        
+                        <div class="row no-gutters">
+                            <div class="col-12 col-sm-6 col-md-8">
+                                <i class="fa fa-television room-card-fafa-icon" aria-hidden="true"></i>
+                                <i class="fa fa-wifi room-card-fafa-icon" aria-hidden="true"></i>
+                                <i class="fa fa-bath room-card-fafa-icon" aria-hidden="true"></i>
+                            </div>
+                            <div class="col-6 col-md-4">
+                                <button class="btn2-home-area1">Book Now</button>
+                            </div>
+                        </div>
                     </div>
                     </div>
                 </div>
@@ -43,7 +54,7 @@
                         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <button class="btn2-home-area1">Book Now</button>
                     </div>
                     </div>
                 </div>
@@ -55,7 +66,7 @@
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <button class="btn2-home-area1">Book Now</button>
                     </div>
                     </div>
                 </div>
@@ -67,7 +78,7 @@
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <button class="btn2-home-area1">Book Now</button>
                     </div>
                     </div>
                 </div>
@@ -79,7 +90,7 @@
                         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <button class="btn2-home-area1">Book Now</button>
                     </div>
                     </div>
                 </div>
@@ -91,7 +102,7 @@
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <button class="btn2-home-area1">Book Now</button>
                     </div>
                     </div>
                 </div>
